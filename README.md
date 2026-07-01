@@ -33,4 +33,4 @@ See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rule
 # Weather App
 
 Live Demo:
-https://weather-app-reactjs-tau.vercel.app
+https://weather-app-reactjs-tan.vercel.app/
